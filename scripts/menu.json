@@ -1,0 +1,12 @@
+{
+    "southIndian": [
+        {"id":101,"itemName":"idly","image":"assets/images/1.jpg"},
+        {"id":102,"itemName":"dosa","image":"assets/images/2.jpg"},
+        {"id":103,"itemName":"pongal","image":"assets/images/3.jpg"},
+        {"id":104,"itemName":"poori","image":"assets/images/4.jpg"},
+        {"id":105,"itemName":"chappathi","image":"assets/images/5.jpg"}
+    ],
+    "northIndian": [],
+    "menuTypes": []
+
+}
