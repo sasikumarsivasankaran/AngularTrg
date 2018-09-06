@@ -1,0 +1,17 @@
+<table class='table table-striped' >
+<table>
+  <tr>
+    <td>Id</td>
+    <td>Name</td>
+    <td>Designation</td>
+    <td>Image</td>
+  </tr>
+  <tr *ngFor='let eachSalesMan of salesManList'>
+    <td>
+        <img src={{eachSalesMan.image}} alt="Company Logo" height="42" width="42" >      
+     </td>
+    <td>{{eachSalesMan.id}}</td>
+    <td>{{eachSalesMan.name}}</td>
+    <td>{{eachSalesMan.designation}}</td>   
+  </tr>
+</table>
